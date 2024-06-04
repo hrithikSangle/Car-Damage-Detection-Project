@@ -10,3 +10,6 @@ Install Spyder.
 Install required libraries and dependencies.
 
 For any query contact whatsapp-7700065303
+
+Screenshots of the Project
+![GUI](https://github.com/hrithikSangle/Car-Damage-Detection-Project/assets/166374140/ecaa3945-2a52-4f65-a2b1-59cfa93a540e)
